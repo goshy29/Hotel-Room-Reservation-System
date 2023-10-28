@@ -1,0 +1,5 @@
+Single, 1 bed for a single person, 1
+Double, 1 extra large double bed, 2
+Deluxe, 1 extra large double bed and 1 sofa bed, 2 + 1
+Suite, 2 extra large double beds and 1 sofa bed, 4 + 1
+Penthouse, 3 extra large double beds and 1 sofa bed, 6 + 1
